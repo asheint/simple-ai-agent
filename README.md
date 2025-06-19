@@ -157,4 +157,9 @@ Found a bug or have a feature request? Please open an issue on the [GitHub Issue
 
 ---
 
+## ☕ Buy Me a Coffee
+
+If you found this project helpful or inspiring, you can support my work here:  
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/asheint)
+
 ⭐ **Star this repository if you find it helpful!**
